@@ -15,18 +15,13 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Re
 
 ### Video Demonstrations
 
-- [Application Working]: Demonstration showcasing the functionality of the CRUD operations.
-- 
+1. Demonstration showcasing the functionality of the CRUD operations.
 
 Uploading Viva-apk.mp4…
 
-
-- [Responsiveness]: Displaying the responsiveness of the application across various devices.
-- 
+2.  Displaying the responsiveness of the application across various devices.
 
 https://github.com/Bahri-Adem/Vivia_Todo_Adem_Bahri/assets/103949052/47c9fc61-6214-4480-9a41-e63ba7dcffbb
-
-
 
 ### Live Demo
 
